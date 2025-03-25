@@ -1,4 +1,3 @@
-import { useState } from "react";
 import Header from "./Header";
 import languages from "./ArrayList";
 import Tabs from "./Tabs";
